@@ -1,4 +1,4 @@
-#tête{
+#corps{
     background-color: black;
     background-image: url("image/dos carte yu-gi-oh.PNG");
     background-size: cover;
@@ -12,8 +12,22 @@ span{
     background-image: url("image/font bleu.PNG");
     background-size: cover;
     color: white;
+    margin-bottom: -5%;
+    text-align: center;
 }
 
+.cite {
+    text-align: center;
+}
+
+
+#bas_de_page{
+    color: white;
+    background-image: url("image/Fond gris.PNG");
+    background-size: cover;
+    margin-bottom: 0;
+    text-align: left;
+}
 
 .bd-placeholder-img {
     font-size: 1.125rem;
